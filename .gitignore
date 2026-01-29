@@ -129,7 +129,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -177,3 +176,5 @@ cython_debug/
 # Misc
 .DS_Store
 *kubeconfig
+config.bat
+node_modules
